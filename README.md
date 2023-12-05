@@ -1,3 +1,12 @@
 # SOCIOPEDIA
-- A complete social media app with the MERN stack (from youtube: ED ROH)
+- A complete fullstack social media app with the MERN stack (from youtube: ED ROH)
 - Includes a frontend which communicates with the backend
+- Consists of a register page with complete validation
+- Functionality to updload images
+- Ability to register and sign in
+- Ability to make post, edit, delete post
+- Ability to like and dislike posts
+- Ability to view comments
+- Ability to friend and unfriend a user
+- Ability to view someone's profile
+- Ability to change between dark and light mode
