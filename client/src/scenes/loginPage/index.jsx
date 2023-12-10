@@ -26,7 +26,6 @@ const LoginPage = () => {
                 Welcome to Sociopedia, the Social Media for Sociopaths!
             </Typography>
             <Form />
-            {/* <Form2 /> */}
         </Box>
     </Box>;
 };
