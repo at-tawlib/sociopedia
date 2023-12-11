@@ -31,17 +31,7 @@ const UserWidget = ({ userId, picturePath }) => {
     };
 
     useEffect(() => {
-        // getUser();
-        const data = {
-            firstName: "Abdul",
-            lastName: "Hardi",
-            location: "Accra",
-            occupation: "Med lab scientist",
-            viewedProfile: 1050,
-            impressions: 224,
-            friends: ["aadad", "adaadad", "adada"],
-        }
-        setUser(data);
+        getUser();
     }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
     if (!user) {
